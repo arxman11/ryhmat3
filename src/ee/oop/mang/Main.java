@@ -14,6 +14,8 @@ import javafx.stage.Stage;
 import javafx.util.Duration;
 
 public class Main extends Application {
+	
+	//teretere,argo siin
 
 	Random rand = new Random();
 
